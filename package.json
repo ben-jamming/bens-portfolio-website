@@ -2,7 +2,7 @@
   "name": "benhepditch",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://benhepditch.github.io/bens-portfolio-website/",
+  "homepage": "https://ben-jamming.github.io/bens-portfolio-website/",
   "dependencies": {
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
