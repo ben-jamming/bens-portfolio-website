@@ -15,9 +15,9 @@ function App() {
       <div className="max-w-screen-xl mx-auto">
         <Banner />
         < Skills />
-        <Projects />
-        <Robotics />
         <Experience />
+        <Robotics />
+        <Projects />
         <Resume />
       </div>
     </div>

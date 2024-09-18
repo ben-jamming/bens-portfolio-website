@@ -1,14 +1,22 @@
 // experienceData.js
 export const experiences = [
-    {index: 1,
-      date: "September 2023 - Present",
+  {
+    index: 1,
+    date: "May - July. 2024",
+    position: "Software Development Engineer Intern",
+    employer: "Amazon Web Services (AWS)",
+    description: "Developed and delivered a full-stack application for AWS finance teams, engineered a micro-service architecture, and won a People's Choice Award for creating a generative AI tool.",
+    chips: ["Python", "TypeScript", "NestJs", "React", "AWS Athena", "AWS Glue", "REST API", "Microservices"]
+  },
+  {index: 2,
+      date: "September 2023 - December 2023",
       position: "Machine Learning Engineering Intern",
       employer: "OpenFood.AI",
       description: "Built a machine learning pipeline for labeling nutrition data and designed experimental reccomendation systems for food products.",
       chips: ["Python", "PyTorch", "Keras", "AWS", "Tensorflow", "PostgreSQL", "Apache Airflow"]
     },
     {
-        index: 2,
+        index: 3,
       date: "May - August. 2023",
       position: "Software Engineering Intern",
       employer: "Independent Robotics, Innovobot",
@@ -16,7 +24,7 @@ export const experiences = [
         chips: ["Python", "ROS2", "Linux", "C++", "PyTorch", "Arduino", "Multithreading","Docker"]
     },
     {
-        index: 3,
+        index: 4,
       date: "Jan - April. 2023",
       position: "Research Assistant",
       employer: "Mobile Robotics Lab, McGill University",
@@ -24,7 +32,7 @@ export const experiences = [
         chips: ["Python", "PyTorch", "YoloV7", "ROS 2", "Linux","Jupyter"]
     },
     {
-        index: 4,
+        index: 5,
       date: "May - Aug. 2022",
       position: "Mergers & Acquisitions Intern",
       employer: "Valsoft Corporation",
@@ -32,7 +40,7 @@ export const experiences = [
         chips: ["Excel", "PowerBI", "Negotiation", "Financial Modeling"]
     },
     {
-        index: 5,
+        index: 6,
       date: "May - Aug. 2021",
       position: "Equities Analyst Intern",
       employer: "Lennox Mcneely",
