@@ -28,8 +28,8 @@ const Projects = () => {
           title="Intelligent Schedule Builder"
           des="A free web app to help McGill students plan their course load from freshman to senior year."
           src={projectTwo}
-          githubLink="https://github.com/ben-jamming/Intelligent-Schedule-Builder"
-          websiteLink="https://github.com/ben-jamming/Intelligent-Schedule-Builder"
+          githubLink="https://github.com/ben-jamming/IntelligentScheduleBuilder"
+          websiteLink="https://github.com/ben-jamming/IntelligentScheduleBuilder"
           chips={["React", "Python", "MongoDB","NextJS", "TailwindCSS","TypeScript"]}
         />
         <ProjectsCard
